@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.1",
 	"author": "BitSar",
+	"license": "MIT",
 	"description": "A node tutorial project from FCC",
+	"keywords": ["freecodecamp", "keyword1", "keyword2"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},

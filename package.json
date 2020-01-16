@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "BitSar",
+	"description": "A node tutorial project from FCC",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
